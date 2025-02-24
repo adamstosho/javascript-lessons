@@ -95,7 +95,7 @@ console.log(`${trueValue}`)
 
 // comparisons operator 
 let num2 = 10;
-// num2++
+num2++
 let num3 = 20;
 
 
